@@ -1,0 +1,71 @@
+{
+    "name": "GroupControl",
+    "maps": [
+        {
+            "name": "GroupSelect",
+            "id": "87a65bb9-84d4-40f3-8c63-abe515b462d9",
+            "actions": [
+                {
+                    "name": "0",
+                    "type": "Button",
+                    "id": "eaa6a559-bfb7-46d0-9034-d87b187a532a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "1",
+                    "type": "Button",
+                    "id": "aa5e8bc2-1847-4edc-b93e-90d482ab4122",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "2",
+                    "type": "Button",
+                    "id": "206685ae-7446-428c-bbbc-2554e46dffee",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "76188998-71e2-4cf9-a026-405a2082bb3c",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6e4034d9-236e-4c8e-ac87-1dc35a36e146",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d52df82c-c046-4faa-b1cb-38db79846a4b",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

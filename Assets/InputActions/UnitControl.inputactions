@@ -1,0 +1,33 @@
+{
+    "name": "UnitControl",
+    "maps": [
+        {
+            "name": "BattleMap",
+            "id": "6ccc8230-cc4c-4d36-9164-05c27c519bc8",
+            "actions": [
+                {
+                    "name": "RightClick",
+                    "type": "Button",
+                    "id": "ecb2a8a8-4d30-4df9-85ad-555eac301b8b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "00a8df91-4723-4d36-8eed-923bbd61cbe7",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

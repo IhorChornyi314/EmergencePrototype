@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Emergence Prototype.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\user\Emergence Prototype\.idea\.idea.Emergence Prototype\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
